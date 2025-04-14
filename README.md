@@ -1,4 +1,4 @@
-# Omniverse Kit App Template
+# DREAM Lab Omniverse Kit App Template
 
 <p align="center">
   <img src="readme-assets/kit_app_template_banner.png" width=100% />
@@ -248,7 +248,7 @@ Enhance Omniverse capabilities with extension templates:
 The Omniverse Platform supports streaming Kit-based applications directly to a web browser. You can either manage your own deployment or use an NVIDIA-managed service:
 
 ### Self-Managed
-- **Omniverse Kit App Streaming :** A reference implementation on GPU-enabled Kubernetes clusters for complete control over infrastructure and scalability.
+- **Dream Lab Omniverse Kit App Streaming :** A reference implementation on GPU-enabled Kubernetes clusters for complete control over infrastructure and scalability.
 
 ### NVIDIA-Managed
 - **Omniverse Cloud (OVC):** Offloads hardware, streaming, and network complexities for secure, large scale deployments.

@@ -1,19 +1,21 @@
-# Omniverse Kit App Template
+# University Of North Dakota Omniverse Kit App Template
 
 <p align="center">
   <img src="readme-assets/kit_app_template_banner.png" width=100% />
 </p>
 
 ## :memo: Feature Branch Information
-**This repository is based on a Feature Branch of the Omniverse Kit SDK.** Feature Branches are regularly updated and best suited for testing and prototyping.
-For stable, production-oriented development, please use the [Production Branch of the Kit SDK on NVIDIA GPU Cloud (NGC)](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/omniverse/collections/production_branch_december_2024).
+**This repository is a fork of the Omniverse Kit App Template, tailored to meet the specific requirements and naming conventions of the University of North Dakota.**
+
+**This fork is managed by the DREAM Lab at the University of North Dakota.**
+
+**The repository is based on a Feature Branch of the Omniverse Kit SDK.** Feature Branches are regularly updated and best suited for testing and prototyping. For stable, production-oriented development, please use the [Production Branch of the Kit SDK on NVIDIA GPU Cloud (NGC)](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/omniverse/collections/production_branch_december_2024).
 
 [Omniverse Release Information](https://docs.omniverse.nvidia.com/dev-overview/latest/omniverse-releases.html#)
 
-
 ## Overview
 
-Welcome to `kit-app-template`, a toolkit designed for developers interested in GPU-accelerated application development within the NVIDIA Omniverse ecosystem. This repository offers streamlined tools and templates to simplify creating high-performance, OpenUSD-based desktop or cloud streaming applications using the Omniverse Kit SDK.
+Welcome to `dream-lab-kit-app-template`, a toolkit designed for developers interested in GPU-accelerated application development within the NVIDIA Omniverse ecosystem. This repository offers streamlined tools and templates to simplify creating high-performance, OpenUSD-based desktop or cloud streaming applications using the Omniverse Kit SDK. It has been customized to align with the University of North Dakota's development standards and requirements.
 
 ### About Omniverse Kit SDK
 
@@ -25,11 +27,11 @@ The Omniverse Kit SDK enables developers to build immersive 3D applications. Key
 
 ### Applications and Use Cases
 
-The `kit-app-template` repository enables developers to create cross-platform applications (Windows and Linux) optimized for desktop use and cloud streaming. Potential use cases include designing and simulating expansive virtual environments, producing high-quality synthetic data for AI training, and building advanced tools for technical analysis and insights. Whether you're crafting engaging virtual worlds, developing comprehensive analysis tools, or creating simulations, this repository, along with the Kit SDK, provides the foundational components required to begin development.
+The `dream-lab-kit-app-template` repository enables developers to create cross-platform applications (Windows and Linux) optimized for desktop use and cloud streaming. Potential use cases include designing and simulating expansive virtual environments, producing high-quality synthetic data for AI training, and building advanced tools for technical analysis and insights. Whether you're crafting engaging virtual worlds, developing comprehensive analysis tools, or creating simulations, this repository, along with the Kit SDK, provides the foundational components required to begin development.
 
 ### A Deeper Understanding
 
-The `kit-app-template` repository is designed to abstract complexity, jumpstarting your development with pre-configured templates, tools, and essential boilerplate. For those seeking a deeper understanding of the application and extension creation process, we have provided the following resources:
+The `dream-lab-kit-app-template` repository is designed to abstract complexity, jumpstarting your development with pre-configured templates, tools, and essential boilerplate. For those seeking a deeper understanding of the application and extension creation process, we have provided the following resources:
 
 #### Companion Tutorial
 
@@ -43,7 +45,7 @@ For a beginner-friendly introduction to application development using the Omnive
 
 **[Developing an Omniverse Kit-Based Application](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-11+V1)**: This course offers an accessible introduction to application development (account and login required).
 
-These resources empower developers at all experience levels to fully utilize the `kit-app-template` repository and the Omniverse Kit SDK.
+These resources empower developers at all experience levels to fully utilize the `dream-lab-kit-app-template` repository and the Omniverse Kit SDK.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -112,22 +114,22 @@ Ensure your system is set up with the following to work with Omniverse Applicati
 
 ## Quick Start
 
-This section guides you through creating your first Kit SDK-based Application using the `kit-app-template` repository. For a more comprehensive explanation of functionality previewed here, reference the following [Tutorial](https://docs.omniverse.nvidia.com/kit/docs/kit-app-template/latest/docs/intro.html) for an in-depth exploration.
+This section guides you through creating your first Kit SDK-based Application using the `dream-lab-kit-app-template` repository. For a more comprehensive explanation of functionality previewed here, reference the following [Tutorial](https://docs.omniverse.nvidia.com/kit/docs/kit-app-template/latest/docs/intro.html) for an in-depth exploration.
 
 ### 1. Clone the Repository
 
-Begin by cloning the `kit-app-template` to your local workspace:
+Begin by cloning the `dream-lab-kit-app-template` to your local workspace:
 
 #### 1a. Clone
 
 ```bash
-git clone https://github.com/NVIDIA-Omniverse/kit-app-template.git
+git clone https://github.com/NVIDIA-Omniverse/dream-lab-kit-app-template.git
 ```
 
 #### 1b. Navigate to Cloned Directory
 
 ```bash
-cd kit-app-template
+cd dream-lab-kit-app-template
 ```
 
 ### 2. Create and Configure New Application From Template
@@ -212,7 +214,7 @@ Initiate your newly created application using:
 
 ## Templates
 
-`kit-app-template` features an array of configurable templates for `Extensions` and `Applications`, catering to a range of desired development starting points from minimal to feature rich.
+`dream-lab-kit-app-template` features an array of configurable templates for `Extensions` and `Applications`, catering to a range of desired development starting points from minimal to feature rich.
 
 ### Applications
 

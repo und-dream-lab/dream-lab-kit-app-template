@@ -1,4 +1,4 @@
-# Omniverse Kit App Template
+# Dream Lab Omniverse Kit App Template
 
 <p align="center">
   <img src="readme-assets/kit_app_template_banner.png" width=100% />
